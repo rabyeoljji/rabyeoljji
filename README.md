@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rabyeoljji
 - 👀 I’m interested in ✨pretties
-- 🌱 I’m currently learning ✏️javascript
+- 🌱 I’m currently learning ✏️React/TypeScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me "nageuna922@gmail.com"
 - 😄 Pronouns: ...
