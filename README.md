@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @rabyeoljji
 - 👀 I’m interested in ✨pretties
 - 🌱 I’m currently learning ✏️React/TypeScript
+- 🌱 I hope to learn ✏️Next.js/Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me "nageuna922@gmail.com"
 - 📝 My study blog is "https://velog.io/@rabyeoljji/series"
