@@ -1,12 +1,13 @@
 - 👋 Hi, I’m @rabyeoljji
 - 👀 I’m interested in ✨pretties
-- 🌱 I’m currently learning ✏️React/TypeScript
-- 🌱 I hope to learn ✏️Next.js/Flutter
-- 💞️ I’m looking to collaborate on ...
+- 🪛 My main skills are 🔧React/Typescript
+- 🔥 I’m currently learning ✏️Next.js/React-Native
+- 🌱 I hope to learn ✏️Flutter
 - 📫 How to reach me "nageuna922@gmail.com"
 - 📝 My study blog is "https://velog.io/@rabyeoljji/series"
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- (💞️ I’m looking to collaborate on ...)
+- (😄 Pronouns: ...)
+- (⚡ Fun fact: ...)
 
 <!---
 rabyeoljji/rabyeoljji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
